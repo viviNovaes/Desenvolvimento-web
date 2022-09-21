@@ -1,0 +1,14 @@
+!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Meu primeiro HTML</title>
+  </head>
+  <body>
+    <h1>Bem-vindo ao meu site</h1>
+    Olá, mundo!
+    <h5>Informações Pessoais</h5>
+    <br> //tag para quebrar linha
+    Meu nome é Victória Freire
+    <br>
+    tenho 18 anos
+  </body>
